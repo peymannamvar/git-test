@@ -1,10 +1,16 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin: 30px ;
     font-size: "16px";
 }
 
 p {
     color: blue;
+}
+
+button {
+    background: #000;
+    color: #fff;
+    padding: 10px 15px;
+    font-weight: bold;
+    cursor: pointer;
 }
